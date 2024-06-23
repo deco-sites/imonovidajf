@@ -1,0 +1,19 @@
+{
+  "name": "sobre",
+  "path": "/sobre",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "Preview /sections/Hero.tsx"
+    },
+    {
+      "__resolveType": "Preview site/sections/ImageWithParagraph.tsx"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
